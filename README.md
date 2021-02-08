@@ -1,1 +1,1 @@
-# ContentGallary
+# Content Gallary
